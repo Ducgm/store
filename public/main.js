@@ -17,7 +17,7 @@ const product = [
         id: 2,
         Image: "./assets/assets/pro/Kit.jpg",
         title: " Wiskat",
-        price: 110,
+        price: 100000,
 
     },
     {
